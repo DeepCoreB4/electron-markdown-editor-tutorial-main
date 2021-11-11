@@ -23,7 +23,7 @@
         "node",
         "npm"
       ],
-      "enabled": false
+      "enabled": true
     },
     {
       "depTypeList": [

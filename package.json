@@ -3,7 +3,7 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/craftzdog/electron-markdown-editor-tutorial.git"
+    "url": "git+ssh://git@github.com:DeepCoreB4/electron-markdown-editor-tutorial-main.git"
   },
   "keywords": [
     "Markdown",

@@ -4,7 +4,7 @@ import Preview from './preview'
 import './app.css'
 
 const App: React.FC = () => {
-  const [doc, setDoc] = useState<string>('# Hello, World!\n')
+  const [doc, setDoc] = useState<string>('# Hello, Jutzu! \n')
 
   const handleDocChange = useCallback(newDoc => {
     setDoc(newDoc)

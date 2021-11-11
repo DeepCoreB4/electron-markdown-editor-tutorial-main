@@ -1,17 +1,12 @@
 import {contextBridge} from 'electron';
-// packages/preload/src/index.ts
-import {readFile} from 'fs/promises'
-
-const api = {
-  readConfig: () =>  readFile('/path/to/config.json', {encoding: 'utf-8'}),
-}
-
-contextBridge.exposeInMainWorld('electron', api)
 
 const apiKey = 'electron';
 /**
  * @see https://github.com/electron/electron/issues/21437#issuecomment-573522360
  */
+const api: ElectronApi = {
+  versions: process.versions,
+};
 
 if (import.meta.env.MODE !== 'test') {
   /**

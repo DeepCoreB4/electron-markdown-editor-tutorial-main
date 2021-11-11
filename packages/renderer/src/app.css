@@ -1,4 +1,5 @@
 .app {
+  background-image: image-set();
   background-color: transparent;
   display: flex;
   flex-direction: row;

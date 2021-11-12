@@ -7,7 +7,7 @@ Tranzparenz not work on windows System with this setup!!
 
 ## AppName LOGO
 
-[![DC-FOX](./buildResources/icon.png)](https://www.inkdrop.app/)  
+[![DC-FOX](./buildResources/icon.png)](https://github.com/DeepCoreB4/electron-markdown-editor-tutorial-main)  
 A cross-platform Markdown note-taking app
 
 ## Stack

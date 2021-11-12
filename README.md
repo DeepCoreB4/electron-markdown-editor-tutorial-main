@@ -3,10 +3,11 @@
 ![screenshot](./doc/screenshot.png)
 
 A tutorial for building a beautiful Markdown editor
+Tranzparenz not work on windows System with this setup!!
 
-## Sponsor
+## AppName LOGO
 
-[![Inkdrop](./doc/inkdrop-logo.png)](https://www.inkdrop.app/)  
+[![DC-FOX](./buildResources/icon.png)](https://www.inkdrop.app/)  
 A cross-platform Markdown note-taking app
 
 ## Stack
@@ -104,6 +105,9 @@ When running building, environment variables are loaded from the following files
 ## Author
 
 Takuya Matsuyama ([@craftzdog](https://github.com/craftzdog))
+
+### Moding by
+Edgar Cuppari ([@DeepCoreB4](https://github.com/DeepCoreB4/electron-markdown-editor-tutorial-main))
 
 
 [vite]: https://github.com/vitejs/vite/

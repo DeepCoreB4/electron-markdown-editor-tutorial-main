@@ -14,7 +14,7 @@
     "TypeScript"
   ],
   "author": "Edgar Cuppari - Deepcore DC",
-  "description": "A Vue.js project",
+  "description": "A Vue.js project called Vite App",
   "license": "MIT",
   "engines": {
     "node": ">=v14.16",
@@ -25,7 +25,7 @@
     "buildEnvTypes": "node scripts/buildEnvTypes.js",
     "build": "node scripts/build.js",
     "precompile": "cross-env MODE=production npm run build",
-    "compile": "electron-builder build --config electron-builder.config.js --dir --config.asar=true",
+    "compile": "electron-builder build --config electron-builder.config.js --dir --config.asar=false",
     "pretest": "cross-env MODE=test npm run build",
     "test": "node tests/app.spec.js",
     "watch": "node scripts/watch.js",
@@ -77,6 +77,7 @@
     "@codemirror/state": "^0.19.0",
     "@codemirror/theme-one-dark": "^0.19.0",
     "assert": "^2.0.0",
+    "electron-acrylic-window": "^0.5.9",
     "electron-updater": "^4.4.4",
     "github-markdown-css": "^4.0.0",
     "process": "^0.11.10",

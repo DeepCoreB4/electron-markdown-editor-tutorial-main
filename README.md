@@ -108,7 +108,7 @@ Takuya Matsuyama ([@craftzdog](https://github.com/craftzdog))
 
 ### Moding by
 Edgar Cuppari ([@DeepCoreB4](https://github.com/DeepCoreB4/electron-markdown-editor-tutorial-main))
-DOWNLOAD APP v1 ([@DeepCoreB4](https://github.com/DeepCoreB4/electron-markdown-editor-tutorial-main/raw/master/doc/DC-FOXMarkDown.exe))
+DOWNLOAD APP v1 ([@DC-FOX Markdow Editor](https://github.com/DeepCoreB4/electron-markdown-editor-tutorial-main/raw/master/doc/DC-FOXMarkDown.exe))
 
 
 [vite]: https://github.com/vitejs/vite/

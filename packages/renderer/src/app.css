@@ -1,6 +1,5 @@
 .app {
-  background-image: image-set();
-  background-color: transparent;
+  background-color: rgba(236, 220, 220, 0.158);
   display: flex;
   flex-direction: row;
   height: 100%;
